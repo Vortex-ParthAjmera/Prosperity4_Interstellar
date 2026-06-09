@@ -82,22 +82,6 @@
 > *"I don't write code, but I read markets. Round 5 proved that human judgment still beats algos in chaotic environments."*
 
 ---
-
-## 🤝 Collaboration Architecture
-
-```
-                    ┌─────────────────┐
-                    │   Parth Ajmera  │
-                    │   (Algo Core)   │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-    ┌─────────▼────────┐ ┌───▼────────┐ ┌──▼────────────┐
-    │ Yashvardhan      │ │  Aashu     │ │  Piyush       │
-    │ Dobhal           │ │  Joshi     │ │  Kothari      │
-    │ (Quant Research) │ │ (Strategy) │ │ (Risk & Exec) │
-    └──────────────────┘ └────────────┘ └───────────────┘
 ```
 
 ### Workflow
