@@ -82,7 +82,6 @@
 > *"I don't write code, but I read markets. Round 5 proved that human judgment still beats algos in chaotic environments."*
 
 ---
-```
 
 ### Workflow
 
