@@ -174,7 +174,7 @@
 | **Parth Ajmera** | Team Lead & Algo Dev | [@Vortex-ParthAjmera](https://github.com/Vortex-ParthAjmera) |
 | **Yashvardhan Dobhal** | Quant Research & Backtesting | [@Yash-bebop](https://github.com/Yash-bebop) |
 | **Aashu Joshi** | Strategy & Manual Trading | [@aashujoshisbps-ship-it](https://github.com/aashujoshisbps-ship-it) |
-| **Piyush Kothari** | Risk & Manual Execution | *N/A* |
+| **Piyush Kothari** | Manual Execution | *N/A* |
 
 ---
 
